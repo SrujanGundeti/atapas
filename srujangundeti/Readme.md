@@ -1,1 +1,1 @@
-Hey Thankyou for teaching how to fork.
+Hey Thankyou for teaching how to fork and also to raise a pr.
